@@ -94,7 +94,7 @@ Created a **dynamic and interactive Excel Dashboard** with:
 ---
 
 ## Dashboard
-
+<img width="922" alt="Image" src="https://github.com/user-attachments/assets/e5814cbe-7afc-4cce-afe2-576eb77c7792" />
 
 ---
 
