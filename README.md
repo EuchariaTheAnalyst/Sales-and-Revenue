@@ -1,13 +1,13 @@
 
 # Table Of Content
-1.[Project Overview](Project-Overview)
-2.[Dataset Summary](Dataset-Summary)
-3.[Project Steps](Project-Steps)
-4.[Dashboard](Dashboard)
-5.[Excel Features Utilized](Excel-Features-Utilized)
-6.[Insights & Observations](Insights-&-Observations)
-7.[Recommendations](Recommendations)
-8.[Conclusion](Conclusion)
+1. [Project Overview](Project-Overview)
+2. [Dataset Summary](Dataset-Summary)
+3. [Project Steps](Project-Steps)
+4. [Dashboard](Dashboard)
+5. [Excel Features Utilized](Excel-Features-Utilized)
+6. [Insights & Observations](Insights-&-Observations)
+7. [Recommendations](Recommendations)
+8. [Conclusion](Conclusion)
 
 
 # Sales and Revenue Analysis (Excel Dashboard)
